@@ -11,18 +11,13 @@ Una descripción clara y breve sobre lo que hace tu proyecto, por qué existe y 
 
 ---
 
-## 📌 Descripción
-
-Explica en uno o dos párrafos:
-
-- Qué hace el proyecto
-- A quién va dirigido
-- Tecnologías principales (opcional)
-- Estado actual (beta, terminado, etc.)
-
+## Descripción
+Iron Horse Auto es una empresa dedicada a la compra, venta y comercialización de vehículos, enfocada en ofrecer autos de calidad, precios justos y un servicio confiable.
+Nuestro objetivo es conectar a cada cliente con el vehículo ideal, garantizando procesos claros, seguros y eficientes.
+En Iron Horse Auto trabajamos con compromiso, transparencia y pasión por los motores, construyendo relaciones basadas en la confianza y la satisfacción del cliente.
 ---
 
-## 🚀 Empezando
+## Empezando
 
 Instrucciones para instalar y usar tu proyecto:
 
