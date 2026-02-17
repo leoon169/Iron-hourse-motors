@@ -1,8 +1,7 @@
 # Iron-hourse-motor
 <!-- Logo del proyecto -->
 <p align="center">
-  <img src="![1000009499](https://github.com/user-attachments/assets/ad6ffeea-1b7c-4838-a4cc-9bb2d67faac8)
-" alt="Logo del proyecto" width="200" />
+  <img src=logo.png alt="Logo del proyecto" width="200" />
 </p>
 
 # **Nombre del Proyecto**
